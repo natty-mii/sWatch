@@ -105,6 +105,7 @@ class ViewController: UIViewController {
         if (timerLabel.text == "END") {
             aButton.isEnabled = false
             bButton.isEnabled = false
+            //コミットするために文字を打つ
         }
     }
     
