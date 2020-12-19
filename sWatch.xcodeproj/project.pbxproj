@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33758EDA2500E40800227342 /* Let_s_go_Digital_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 33758ED92500E40800227342 /* Let_s_go_Digital_Regular.ttf */; };
 		33F5D3B924FF9560004F5FD5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F5D3B824FF9560004F5FD5 /* AppDelegate.swift */; };
 		33F5D3BB24FF9560004F5FD5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F5D3BA24FF9560004F5FD5 /* SceneDelegate.swift */; };
 		33F5D3BD24FF9560004F5FD5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F5D3BC24FF9560004F5FD5 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		33758ED92500E40800227342 /* Let_s_go_Digital_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Let_s_go_Digital_Regular.ttf; sourceTree = "<group>"; };
 		33F5D3B524FF9560004F5FD5 /* sWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33F5D3B824FF9560004F5FD5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33F5D3BA24FF9560004F5FD5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				33F5D3C124FF9560004F5FD5 /* Assets.xcassets */,
 				33F5D3C324FF9560004F5FD5 /* LaunchScreen.storyboard */,
 				33F5D3C624FF9560004F5FD5 /* Info.plist */,
+				33758ED92500E40800227342 /* Let_s_go_Digital_Regular.ttf */,
 			);
 			path = sWatch;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				33F5D3C524FF9560004F5FD5 /* LaunchScreen.storyboard in Resources */,
 				33F5D3C224FF9560004F5FD5 /* Assets.xcassets in Resources */,
+				33758EDA2500E40800227342 /* Let_s_go_Digital_Regular.ttf in Resources */,
 				33F5D3C024FF9560004F5FD5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,6 +289,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6BN55GDKAW;
 				INFOPLIST_FILE = sWatch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +307,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6BN55GDKAW;
 				INFOPLIST_FILE = sWatch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
