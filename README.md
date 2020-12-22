@@ -13,5 +13,6 @@ Udemyでswiftコースを受講した際のアウトプットを行うために
 作成しました。
 
 ## :eyes:DEMO
-Issuesにてご覧ください
+動画はIssuesにてご覧ください。<br>
+簡単なgifは以下になります。<br>
 ![sWatchGif](https://user-images.githubusercontent.com/68325610/102857441-c60f1a00-446b-11eb-92fd-8065d144bef0.gif)
