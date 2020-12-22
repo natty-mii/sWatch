@@ -14,4 +14,4 @@ Udemyでswiftコースを受講した際のアウトプットを行うために
 
 ## :eyes:DEMO
 Issuesにてご覧ください
-
+![sWatchGif](https://user-images.githubusercontent.com/68325610/102857441-c60f1a00-446b-11eb-92fd-8065d144bef0.gif)
